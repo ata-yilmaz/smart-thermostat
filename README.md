@@ -47,7 +47,17 @@ Completed as a Bachelor's Graduation Project.
 
 ## Documentation
 
-The complete project report is available in the `docs` folder.
+The complete project report is available here:
+
+- 📄 [Smart Thermostat Project Report](docs/Smart_Thermostat_Report.pdf)
+
+## Future Improvements
+
+- Mobile application improvements
+- Cloud database integration
+- Historical temperature logging
+- Energy consumption analysis
+- AI-based temperature prediction
 
 ## Author
 
