@@ -31,12 +31,12 @@ The project development process was planned and tracked using a Gantt chart.
 
 ### Prototype
 
-![Prototype](images/System_2nd_phase.jpg)
+![Prototype](images/System_2nd_phase.png)
 ![Heat & Humidity Output](images/Heat_Humidity.png)
 
 ### Circuit
 
-![Circuit](images/System_scheme.jpg)
+![Circuit](images/System_scheme.png)
 
 ## Enclosure Design
 
@@ -48,11 +48,11 @@ The project enclosure was designed to accommodate the electronic components and 
 
 ### System in Operation
 
-![System in Operation](images/System_final_phase.jpg)
+![System in Operation](images/System_final_phase.png)
 
 ### Blynk Mobile Application
 
-![Blynk Mobile Application](images/Blynk.jpg)
+![Blynk Mobile Application](images/Blynk.png)
 
 ## Hardware
 
