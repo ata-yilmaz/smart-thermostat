@@ -17,6 +17,43 @@ The objective was to design a smart room thermostat that can be monitored and co
 - Mobile application integration
 - Real-time control over the local network
 
+## System Architecture
+
+![System Flowchart](images/Smart-Thermostat-Flowchart.png)
+
+## Project Planning
+
+The project development process was planned and tracked using a Gantt chart.
+
+![Project Gantt Chart](images/Gantt_Chart_Thermostat.png)
+
+## Project Gallery
+
+### Prototype
+
+![Prototype](images/System_second_phase.jpg)
+![Heat & Humidity Output](images/Heat_Humidity.png)
+
+### Circuit
+
+![Circuit](images/System_scheme.jpg)
+
+## Enclosure Design
+
+The project enclosure was designed to accommodate the electronic components and provide a compact and practical housing for the thermostat system.
+
+![Enclosure Front](images/Outer_Box.png)
+
+![Enclosure Back](images/Outer_Box2.png)
+
+### System in Operation
+
+![System in Operation](images/System_final_phase.jpg)
+
+### Blynk Mobile Application
+
+![Blynk Mobile Application](images/Blynk.jpg)
+
 ## Hardware
 
 - ESP8266 NodeMCU
