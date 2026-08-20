@@ -19,7 +19,7 @@ The objective was to design a smart room thermostat that can be monitored and co
 
 ## System Architecture
 
-![System Flowchart](images/Smart-Thermostat-Flowchart.png)
+![System Flowchart](images/Smart_Thermostat_Flowchart.png)
 
 ## Project Planning
 
@@ -31,7 +31,7 @@ The project development process was planned and tracked using a Gantt chart.
 
 ### Prototype
 
-![Prototype](images/System_second_phase.jpg)
+![Prototype](images/System_2nd_phase.jpg)
 ![Heat & Humidity Output](images/Heat_Humidity.png)
 
 ### Circuit
